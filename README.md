@@ -7,7 +7,7 @@ cuke it is a cucumber watirwebdriver bootstrap which can help you quickly get st
 #### Install Xcode
 
 #### Install Homebrew
-`ruby -e "$(curl -fsSL https://raw.github.com/Homebrew/homebrew/go/install)"`
+`ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"`
 #### Install RVM
 `\curl -sSL https://get.rvm.io | bash -s stable`
 
